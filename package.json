@@ -1,19 +1,20 @@
+
 {
-  "name": "cryptojs",
-  "version": "3.1.2",
-  "description": "This is unmodified copy of Google Code hosted CryptoJS project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DentalEMR/CryptoJS.git"
-  },
-  "author": "DentalEMR",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/DentalEMR/CryptoJS/issues"
-  },
-  "homepage": "https://github.com/DentalEMR/CryptoJS#readme"
+"name": "cryptojslib",
+"version": "1.0.0",
+"description": "asdasd",
+"main": "components",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/DentalEMR/cryptojslib.git"
+},
+"author": "",
+"license": "MIT",
+"bugs": {
+"url": "https://github.com/DentalEMR/cryptojslib.git/issues"
+},
+"homepage": "https://github.com/DentalEMR/cryptojslib.git#readme"
 }
